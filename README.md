@@ -1,0 +1,2 @@
+# gold
+gold is gold
